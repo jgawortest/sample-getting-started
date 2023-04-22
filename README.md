@@ -89,3 +89,4 @@ directory  `target/failsafe-reports`
 test
 test
 test
+test
