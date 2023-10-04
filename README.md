@@ -1,6 +1,6 @@
 ![Open Liberty logo](https://github.com/OpenLiberty/logos/blob/main/combomark/png/OL_logo_green_on_white.png)
 
-test 3
+test 4
 
 # Open Liberty Getting Started sample
 
